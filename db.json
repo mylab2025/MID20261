@@ -7,10 +7,10 @@
         "MF": "JJ MICROELECTRONICS"
       },
       "MID": "MID20261",
-      "MD": "",
+      "MD": "SH1002A is N channel Power MOSFET with VDSS = 100V, RDS = 1.6mR, ID = 350A || Current Switching in DC/DC & AC/DC (SR) Sub-systems ||   Motor Driving in Power Tool, E-vehicle, Robotics || Alternate Datasheet: -|| Ref : -",
       "MT": "Electronics Comp.",
       "MQNT": 4,
-      "MQATG": "",
+      "MQATG": "#CLASS0",
       "ML": "102",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20261%2Fmain%2FJMSH1002AEQ_Rev1.2.pdf",
       "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20261%2Fmain%2F1627955992430yJr9jjhfROerWGvRkkGSdw.pdf",
